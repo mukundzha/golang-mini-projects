@@ -13,7 +13,7 @@ a simple command line task manager built in golang by @mukundzha.
 (have go installed)
 
 ## run the project
-(using go run tmg.go)
+(using "go run tmg.go")
 
 ## LICENSE
 (not licensed yet)

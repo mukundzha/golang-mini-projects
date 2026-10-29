@@ -7,6 +7,7 @@ I'm starting with the basics and gradually working toward writing better, more u
 ## Projects
 
 - **Task Manager** — A command-line task manager to practise functions, slices, loops, and user input. Currently in progress.
+- **Number Guesser** - A simple number guessing game to practise random property and other bases.
 
 I'll add more projects as I learn new concepts and become more comfortable with Go.
 

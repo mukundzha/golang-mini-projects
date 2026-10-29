@@ -8,6 +8,7 @@ I'm starting with the basics and gradually working toward writing better, more u
 
 - **Task Manager** — A command-line task manager to practise functions, slices, loops, and user input. Currently in progress.
 - **Number Guesser** - A simple number guessing game to practise random property and other bases.
+- **CLI Calculator** — An interactive command-line calculator supporting `+`, `-`, `*`, and `/` on decimal numbers, with division-by-zero handling. 
 
 I'll add more projects as I learn new concepts and become more comfortable with Go.
 
